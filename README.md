@@ -1,2 +1,2 @@
-# rudraneel-mondal-github.io
+# rudraneel-mondal.github.io
 Web designing
